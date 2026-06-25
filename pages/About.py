@@ -153,7 +153,7 @@ with team1:
 
     st.info("""
 ### Bhupinder Sandhu
-# """)
+""")
 
     st.info("""
 ### Kriti
