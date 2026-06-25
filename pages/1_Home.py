@@ -43,7 +43,7 @@ with col2:
     st.metric("ML Models", "2")
 
 with col3:
-    st.metric("Modules", "4")
+    st.metric("Modules", "3")
 
 with col4:
     st.metric("Accuracy", "80%")
