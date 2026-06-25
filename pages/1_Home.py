@@ -46,7 +46,7 @@ with col3:
     st.metric("Modules", "4")
 
 with col4:
-    st.metric("Accuracy", "95%")
+    st.metric("Accuracy", "80%")
 
 st.markdown("---")
 
