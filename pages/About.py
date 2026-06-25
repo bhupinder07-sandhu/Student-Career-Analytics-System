@@ -153,22 +153,10 @@ with team1:
 
     st.info("""
 ### Bhupinder Sandhu
-
-• Frontend Development
-
-• Backend Development
-
-• Model Integration
-
-• Deployment
-""")
+# """)
 
     st.info("""
 ### Kriti
-
-• Student Segmentation
-
-• Data Processing
 """)
 
 with team2:
@@ -176,17 +164,11 @@ with team2:
     st.info("""
 ### Bavneet
 
-• Career Advisor
-
-• Testing
 """)
 
     st.info("""
 ### Deepti
 
-• Placement Prediction
-
-• Documentation
 """)
 
 st.markdown("---")
